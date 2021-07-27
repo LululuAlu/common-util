@@ -1,0 +1,41 @@
+target/
+.idea
+
+/.classpath
+/.launch
+/.project
+/.settings
+/*.launch
+/*.tmproj
+/ivy*
+/eclipse
+.git
+executor.iml
+output/
+*.iml
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+*.orig
+# system ignore
+.DS_Store
+Thumbs.db
+
+## .gitignore for eclipse
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
